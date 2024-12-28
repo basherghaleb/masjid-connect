@@ -1,5 +1,11 @@
 {
   "projects": {
     "default": "masjidconnect-45136"
+  },
+  "targets": {},
+  "etags": {
+    "masjidconnect-45136": {
+      "extensionInstances": {}
+    }
   }
 }

@@ -12,10 +12,10 @@ import UserDashboard from './pages/UserDashboard';
 const theme = createTheme({
   palette: {
     primary: {
-      main: '#2e7d32', // Green shade
+      main: '#2e7d32',
     },
     secondary: {
-      main: '#1565c0', // Blue shade
+      main: '#1565c0',
     },
   },
 });
